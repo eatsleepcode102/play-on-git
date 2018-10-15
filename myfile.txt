@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hi world
-=======
 hello git
->>>>>>> 0d5471aac602dd4b168dc1d159bf4a4d338c6126
