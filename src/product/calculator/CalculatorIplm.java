@@ -7,4 +7,10 @@ public class CalculatorIplm implements Calculator{
 		return a+b;
 	}
 
+	@Override
+	public int addOne(int a) {
+		// TODO Auto-generated method stub
+		return a++;
+	}
+
 }
