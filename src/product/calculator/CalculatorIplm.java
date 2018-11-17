@@ -12,5 +12,10 @@ public class CalculatorIplm implements Calculator{
 		// TODO Auto-generated method stub
 		return a++;
 	}
+	
+	@Override
+	public int subtract(int a, int b) {
+		return a-b;
+	}
 
 }
