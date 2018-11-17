@@ -14,7 +14,7 @@ public class CalculatorIplm implements Calculator{
 	}
 	
 	@Override
-	public int subtract(int a, int b) {
+	public int subtract2int(int a, int b) {
 		return a-b;
 	}
 
