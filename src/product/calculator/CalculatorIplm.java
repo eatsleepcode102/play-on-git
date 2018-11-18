@@ -18,4 +18,9 @@ public class CalculatorIplm implements Calculator{
 		return a-b;
 	}
 
+	@Override
+	public double divide(int f, int k) {
+		return f/k;
+	}
+
 }
