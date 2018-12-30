@@ -9,6 +9,9 @@ public class Main {
 		Calculator cal=new CalculatorIplm();
 		System.out.println("a+ b="+cal.add(4, 5));
 		//return b;
+		System.out.println("a+ b="+cal.add(44, 2));
+		System.out.println("a+ b="+cal.add(12, 4));
+		System.out.println("a+ b="+cal.add(15, 6));
 	}
 
 }
